@@ -71,16 +71,16 @@ body{
 }
 
 @media screen and (max-width: 250px) {
-    body {
-      background-color: white;
-      background-image: url('http://picnic-basket.com/assets/images/ven/bsi/collegiate/magnets/58721.jpg');
-      background-size: 100vw;
-      font-size: 0.45em;
-    }
+  body {
+    background-color: white;
+    background-image: url('http://picnic-basket.com/assets/images/ven/bsi/collegiate/magnets/58721.jpg');
+    background-size: 100vw;
+    font-size: 0.45em;
+  }
 
-    h2{
-      font-size: 0.25em;
-      padding-top: 90%;
-      color: black;
-    }
+  h2{
+    font-size: 0.25em;
+    padding-top: 90%;
+    color: black;
+  }
 }
